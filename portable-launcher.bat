@@ -1,4 +1,5 @@
 @echo off
+title Plutonium Portable Launcher
 if exist plutonium-updater.exe (goto start) else (goto download)
 :download
 echo Downloading Updater...
