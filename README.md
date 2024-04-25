@@ -1,5 +1,5 @@
 # Plutonium Portable
-## I just realized that the official plutonium.exe aswell supports portable installations by using -install-dir (directory) as start option so i might change to that or provide 2 seperate scripts
+## I just realized that the official plutonium.exe aswell supports portable installations but for now i'm gonna keep it how it is
 Simple Batch Script to create a portable [Plutonium](https://plutonium.pw/) Installation
 
 Usage:<br>
