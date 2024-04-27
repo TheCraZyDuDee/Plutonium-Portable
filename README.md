@@ -6,5 +6,5 @@ Download the portable-launcher.bat  and put it wherever you want your Plutonium 
 To update or launch Plutonium just run the portable-launcher.bat again.
 
 Credits / Other Sources:<br>
-[Plutonium](https://plutonium.pw)
+[Plutonium](https://plutonium.pw)<br>
 [mxve](https://github.com/mxve) - [plutonium-updater.rs](https://github.com/mxve/plutonium-updater.rs)
