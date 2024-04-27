@@ -51,7 +51,7 @@ echo.
 if exist "plutonium\bin\plutonium-launcher-win32.exe" (echo Updating Plutonium Files...) else (echo Downloading Plutonium Files...)
 echo.
 plutonium-updater.exe -l -d "%~dp0\plutonium"
-start "" "bin\plutonium-launcher-win32.exe" >nul
+start "" "plutonium\bin\plutonium-launcher-win32.exe" >nul
 echo.
 echo Update finished! Exiting...
 timeout /t 3 >nul
