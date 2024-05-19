@@ -14,8 +14,6 @@ echo.
 echo if unsure just select the official one.
 echo.
 set /p c=Select your Option: 
-if "%c%"=="1" goto download
-if "%c%"=="2" goto download
 if "%c%" GTR "2" goto downloaderchoice
 if "%c%" LSS "1" goto downloaderchoice
 :download
